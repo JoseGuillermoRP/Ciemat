@@ -1,0 +1,48 @@
+.Tipologo{
+    margin-top: 20px;
+}
+.logo{
+    
+    display: block;
+margin: auto;
+    
+}
+.txt{
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+    font-size: 23px;
+    text-align: center;
+     width: 280px;
+}
+.btnIngresar{
+    display: block;
+    margin: auto;
+    background: #2F87B8;
+    border-radius: 5px;
+    color: white;
+    font-size: 23px;
+    width: 280px;
+    height: 40px;
+    
+    
+}
+.p{
+    display: block;
+    margin: auto;
+    background:white;
+    border-color:#2F87B8;
+    border-radius: 5px;
+    width: 280px;
+    height: 40px;
+    font-size: 15px;
+    color: #2F87B8;
+/*
+    text-align: center;
+    font-size: 23px;
+*/
+}
+.inicio{
+    text-align: center;
+    font-size: 23px;
+}
